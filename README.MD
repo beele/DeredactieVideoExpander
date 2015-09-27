@@ -12,3 +12,5 @@ When a video is playing an "ENLARGE VIDEO PLAYER" button will be added below the
 When clicked this will enlarge the video player and clean up the page for an enhanced viewing experience.
 
 Provided under the MIT License, see LICENSE.MD for more information.
+
+Chrome web store link: https://chrome.google.com/webstore/detail/deredactiebe-video-expand/fpfmhalfhgcbknjdgpkkglgadpfemogh
